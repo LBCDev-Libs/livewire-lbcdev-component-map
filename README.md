@@ -1,5 +1,7 @@
 # Livewire Map Component
 
+> ⚠️ **Paquete abandonado.** Está sustituido por [`lbcdev/livewire-maps-core`](https://github.com/LBCDev-Libs/livewire-maps-core). Este repositorio está archivado y no recibirá más cambios.
+
 Un componente Livewire flexible e interactivo para mapas usando Leaflet.js.
 
 ## Características
@@ -380,8 +382,8 @@ git push origin --delete v1.0.1
 
 Si encuentras algún problema o tienes sugerencias:
 
-- 🐛 [Reportar un bug](https://github.com/Luinux81/livewire-lbcdev-component-map/issues)
-- 💡 [Solicitar una característica](https://github.com/Luinux81/livewire-lbcdev-component-map/issues)
+- 🐛 [Reportar un bug](https://github.com/LBCDev-Libs/livewire-lbcdev-component-map/issues)
+- 💡 [Solicitar una característica](https://github.com/LBCDev-Libs/livewire-lbcdev-component-map/issues)
 
 ## Licencia
 
